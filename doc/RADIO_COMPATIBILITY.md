@@ -68,7 +68,7 @@ Thales/Racal:
 
 Vertex Standard:
 
-* VX-P820
+* VX-P820 Portable
 
 Aeroflex/IFR:
 
